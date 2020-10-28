@@ -3,7 +3,7 @@
     Apples
 ## Members
 Dastan Abdulla
-email: dta12@pitt.edu
+email: dta12@pitt.edu </br>
 Anna Speciale
 email: ams692@pitt.edu
 Lucas Milavec
